@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulationReal", "Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfMultiples", "ArrayOfMultiples\ArrayOfMultiples.csproj", "{74E44E87-12E1-4FAA-A9FD-F671DEB6DBD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheCase", "ReverseTheCase\ReverseTheCase.csproj", "{F7F0D180-1768-4D2F-85D2-861750A088B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{74E44E87-12E1-4FAA-A9FD-F671DEB6DBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E44E87-12E1-4FAA-A9FD-F671DEB6DBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E44E87-12E1-4FAA-A9FD-F671DEB6DBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F0D180-1768-4D2F-85D2-861750A088B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F0D180-1768-4D2F-85D2-861750A088B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F0D180-1768-4D2F-85D2-861750A088B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F0D180-1768-4D2F-85D2-861750A088B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
